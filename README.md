@@ -12,7 +12,7 @@ python3 songify.py <path-to-song>
 <h2>Preview</h2>
 <h4>🎥 Check it out in action:</h4>
 <img src="assets/video.gif" alt="Preview">
-<a href='assets/HtQ.mp4'>🔗 Watch Video with Sound 🔊</a>
+<a href='https://envs.sh/HtQ.mp4'>🔗 Watch Video with Sound 🔊</a>
 
 <h2>License</h2>
 This Script is provided under the terms of the [GPL-3.0 License](LICENSE).
