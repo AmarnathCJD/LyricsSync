@@ -15,4 +15,4 @@ python3 songify.py <path-to-song>
 <a href='https://envs.sh/HtQ.mp4'>🔗 Watch Video with Sound 🔊</a>
 
 <h2>License</h2>
-This Script is provided under the terms of the [GPL-3.0 License](LICENSE).
+This Script is provided under the terms of the <a href='LICENSE'>GPL-3.0 License</a>.
