@@ -94,6 +94,9 @@ signal.signal(signal.SIGINT, handle_exit)
 
 if __name__ == "__main__":
     FILENAME = "song.ogg"
+    if len(sys.argv) > 1:
+        FILENAME = sys.argv[1]
+
     tags, duration = get_embedded_tags(FILENAME)
 
     lyrics_text = tags.get("LYRICS", "")
